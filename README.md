@@ -6,7 +6,7 @@ Mroczne, turowe RPG z mechaniką pseudo-gacha. Zbierasz hot anime demon dziewczy
 ##### System Gacha: Sklep u Johna Szatnisty
 
 ###### Główne założenia
-Transakcja: Płacisz Johnowi Szatniście gotówkę (walutę z gry).
+Transakcja: Płacisz Johnowi Szatniście gotówkę (walutę z gry).\
 Rytuał: W zamian John rysuje na ekranie krąg przyzwania.
 Piekielny Drop: Z otwartego portalu dostajesz postaci i bronie.
 
