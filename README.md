@@ -14,4 +14,6 @@ Devil – Legendarne (Ultra Rare)
 ## Rozgrywka (Gameplay)
 #### Eksploracja Świata
 Poruszasz się po mapie w stylu 2d Super Mario (widok z góry, chodznie miedzy punktami połonczonymi drogami).
+#### System walki
+Kopia press turn z smt. Elementy to fire, ice, wind, telekinetic, soul, dark
 
