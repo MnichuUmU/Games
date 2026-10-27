@@ -11,10 +11,10 @@ Rytuał: W zamian John rysuje na ekranie krąg przyzwania.
 Piekielny Drop: Z otwartego portalu dostajesz postaci i bronie.
 
 ###### Poziomy Rzadkości (Tiers)
-Lost Soul (Zagubiona Dusza) – Zwykłe (Trash/Fodder)
-Demon – Rzadkie (Rare)
-Archdemon – Epickie (Super Rare)
-Devil – Legendarne (Ultra Rare)
+####### Lost Soul (Zagubiona Dusza) – Zwykłe (Trash/Fodder)
+####### Demon – Rzadkie (Rare)
+####### Archdemon – Epickie (Super Rare)
+####### Devil – Legendarne (Ultra Rare)
 
  
 ##### Rozgrywka (Gameplay)
