@@ -1,5 +1,5 @@
 # Untilted Gatcha Game
-###Info
+### Info
 ## Ogólny Koncept Gry
 Mroczne, turowe RPG z mechaniką pseudo-gacha. Zbierasz hot anime demon dziewczyny
 ## System Gacha: Sklep u Johna Szatnisty
