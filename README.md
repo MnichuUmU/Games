@@ -93,14 +93,33 @@ Interfejs walki zawiera osiem podstawowych opcji:
 
 ### Summony
 
-#### Lost Soul (wszystko słabe na niskim dmg) [70%]
+#### Summony:
+##### Lost Soul(wszystko słabe na niskim dmg)[79%]:
+sinner - dusza ze złamaną aureolą, obita i słaba. Dużo hp prawie nic ataku\
+imp - mały demonek jak mały diabełek ale też słaby fire atak, mało hp\
+poltergheis - telekinetic focus mało hp duży dmg, mało hp\
+specter - słaby duch z negatywnych emoji. all round mage jedyny atak to drain(dark). daje buffy\
+duchoid - duch stworzony z idei ludzi. ice lub wind\
+duchoid - duch stworzony z idei ludzi. ice lub wind\
+Banshee - duch który krzyczy i to jest wind atak\
+topielec - ice ataki wodny theme\
+##### Demon(troche lepsze niż lost soul)[15%]:
+baku - demon wywołuje koszmary. soul i dark ataki\
+incubus/sucubus - demon tank ale ma też ataki dark\
+Wendigo - phys atak high speed\
+oni - fire i dark\
+drakula - all round mid jednostka z hp drain\
+Azazel - high dps ale małe hp\
+Abaddon - lepszy mage może dawać effekty na każdego przeciwnika\
+Amon - high fire dps szybki i mid hp\
+##### Archdemon[5%]:
+belzebub - muchowy demon all round dużo hp tank
+moloh - high dark and soul ataki mid hp
+Leviathan - high physical/telekinetic dużo hp wolny
+Lilith - najlepszy buffer w grze. elemental ataki
+Mammon - ataki pieniędzmi. duże stunny i high speed
+Belial - high elemental dps
+Astaroth - używa sekretnej wiedzy itp żeby debuffować przeciwników najlepszy debuffer w grze
 
-* **Sinner:** dusza ze złamaną aureolą, obita i słaba. Dużo HP, prawie nic ataku.
-* **Imp:** mały demonek jak mały diabełek, ale też słaby fire atak, mało HP.
-* **Poltergeist:** telekinetic focus, mało HP, duży DMG.
-* **Specter:** słaby duch z negatywnych emoji. All-round mage, jedyny atak to drain (dark), daje buffy.
-* **Duchoid:** duch stworzony z idei ludzi. Ice lub wind.
-* **Banshee:** duch, który krzyczy i to jest wind atak.
-* **Topielec:** ice ataki, wodny theme.
-
-#### Demon (trochę lepsze niż lost soul) [10%]
+##### Devil[1%]:
+Lucifer - all rounder special ataki z na każdego przeciwnika op ma atak ktory robi każdy element, hp draina itp
