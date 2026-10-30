@@ -19,15 +19,15 @@ Kopia press turn z smt. Elementy to fire, ice, wind, telekinetic, soul, dark.\
 Poniżej koncept ui:\
 ![alt text](battle_ui.png "UI systemu turowego")
 
-##Summony:
-#Lost Soul(wszystko słabe na niskim dmg)[70%]:
-sinner - dusza ze złamaną aureolą, obita i słaba. Dużo hp prawie nic ataku
-imp - mały demonek jak mały diabełek ale też słaby fire atak, mało hp
-poltergheis - telekinetic focus mało hp duży dmg, mało hp
-specter - słaby duch z negatywnych emoji. all round mage jedyny atak to drain(dark). daje buffy
-duchoid - duch stworzony z idei ludzi. ice lub wind
-Banshee - duch który krzyczy i to jest wind atak
-topielec - ice ataki wodny theme
-#Demon(troche lepsze niż lost soul)[10%]
+#### Summony:
+# Lost Soul(wszystko słabe na niskim dmg)[70%]:
+sinner - dusza ze złamaną aureolą, obita i słaba. Dużo hp prawie nic ataku/
+imp - mały demonek jak mały diabełek ale też słaby fire atak, mało hp/
+poltergheis - telekinetic focus mało hp duży dmg, mało hp/
+specter - słaby duch z negatywnych emoji. all round mage jedyny atak to drain(dark). daje buffy/
+duchoid - duch stworzony z idei ludzi. ice lub wind/
+Banshee - duch który krzyczy i to jest wind atak/
+topielec - ice ataki wodny theme/
+# Demon(troche lepsze niż lost soul)[10%]
 
 
