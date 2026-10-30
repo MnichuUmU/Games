@@ -1,5 +1,3 @@
-Oto Twoja specyfikacja gry przygotowana w czystym, spójnym formacie Markdown, bez dodawania nowych treści ani emotikonów:
-
 # Untilted Gacha Game
 
 ## Ogólny Koncept Gry
