@@ -38,12 +38,12 @@ Poruszasz się po mapie w stylu 2d Super Mario (widok z góry, chodzenie między
 
 * Na początku walki drużyna otrzymuje liczbę pełnych ikon księżyców równą liczbie członków aktywnej drużyny.
 * Maksymalny rozmiar drużyny wynosi 3 postacie.
-* 1 postać = 1 pełny księżyc.
-* 2 postacie = 2 pełne księżyce.
-* 3 postacie = 3 pełne księżyce.
+  1 postać = 1 pełny księżyc.\
+  2 postacie = 2 pełne księżyce.\
+  3 postacie = 3 pełne księżyce.\
 
 
-* Każda postać może wykonać akcję podczas tury drużyny. Wykorzystanie akcji zużywa ikonę księżyca.
+  Każda postać może wykonać akcję podczas tury drużyny. Wykorzystanie akcji zużywa ikonę księżyca.
 
 #### 2. Zasady Press Turn
 
