@@ -52,7 +52,7 @@ Ice\
 Wind\
 Telekinetic\
 Soul\
-Dark\
+Dark
 
 Każdy przeciwnik i każda postać mogą posiadać określone słabości oraz odporności na poszczególne żywioły.
 
