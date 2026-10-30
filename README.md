@@ -73,7 +73,7 @@ Wyjdź z walki: Wraca gracza z powrotem na mape.\
 Drużyna gracza może posiadać maksymalnie 3 aktywne postacie.\
 Liczba przeciwników nie ma ustalonego limitu.\
 Po zakończeniu puli ikon drużyny następuje tura przeciwników.\
-Po zakończeniu tury przeciwników drużyna otrzymuje nową pulę pełnych ikon księżyców, zależną od liczby aktywnych członków drużyny.\
+Po zakończeniu tury przeciwników drużyna otrzymuje nową pulę pełnych ikon księżyców, zależną od liczby aktywnych członków drużyny.
 
 #### Summony:
 ##### Lost Soul(wszystko słabe na niskim dmg)[70%]:
@@ -84,7 +84,7 @@ specter - słaby duch z negatywnych emoji. all round mage jedyny atak to drain(d
 duchoid - duch stworzony z idei ludzi. ice lub wind\
 duchoid - duch stworzony z idei ludzi. ice lub wind\
 Banshee - duch który krzyczy i to jest wind atak\
-topielec - ice ataki wodny theme\
+topielec - ice ataki wodny theme
 ##### Demon(troche lepsze niż lost soul)[10%]
 
 
