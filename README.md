@@ -68,7 +68,7 @@ Pass Turn:	Pomija akcję postaci i zużywa połowę ikony księżyca.\
 Item:	Używa przedmiotów, np. mikstur leczenia.\
 Guard:	Postać przyjmuje postawę obronną i zmniejsza otrzymywane obrażenia.\
 Auto:	Automatycznie wybiera akcje dla członków drużyny.\
-Wyjdź z walki: Wraca gracza z powrotem na mape.\
+Wyjdź z walki: Wraca gracza z powrotem na mape.
 ##### 5. Przeciwnicy i kolejność tur
 Drużyna gracza może posiadać maksymalnie 3 aktywne postacie.\
 Liczba przeciwników nie ma ustalonego limitu.\
