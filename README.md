@@ -77,14 +77,13 @@ Po zakończeniu tury przeciwników drużyna otrzymuje nową pulę pełnych ikon 
 
 #### Summony:
 ##### Lost Soul(wszystko słabe na niskim dmg)[70%]:
-sinner - dusza ze złamaną aureolą, obita i słaba. Dużo hp prawie nic ataku\
-imp - mały demonek jak mały diabełek ale też słaby fire atak, mało hp\
-poltergheis - telekinetic focus mało hp duży dmg, mało hp\
-specter - słaby duch z negatywnych emoji. all round mage jedyny atak to drain(dark). daje buffy\
-duchoid - duch stworzony z idei ludzi. ice lub wind\
-duchoid - duch stworzony z idei ludzi. ice lub wind\
+Sinner - dusza ze złamaną aureolą, obita i słaba. Dużo hp prawie nic ataku\
+Imp - mały demonek jak mały diabełek ale też słaby fire atak, mało hp\
+Poltergheis - telekinetic focus mało hp duży dmg, mało hp\
+Specter - słaby duch z negatywnych emoji. all round mage jedyny atak to drain(dark). daje buffy\
+Duchoid - duch stworzony z idei ludzi. ice lub wind\
 Banshee - duch który krzyczy i to jest wind atak\
-topielec - ice ataki wodny theme
+Topielec - ice ataki wodny theme
 ##### Demon(troche lepsze niż lost soul)[10%]
 
 
