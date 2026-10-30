@@ -16,7 +16,7 @@ Devil – Legendarne (Ultra Rare)
 Poruszasz się po mapie w stylu 2d Super Mario (widok z góry, chodznie miedzy punktami połonczonymi drogami).
 
 #### System walki – Press Turn
-##### Poniżej koncept ui:\
+##### Poniżej koncept ui:
 ![alt text](battle_ui.png "UI systemu turowego")
 
 ##### 1. System ikon tur (Moon Icons)
