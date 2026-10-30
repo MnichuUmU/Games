@@ -95,29 +95,29 @@ Interfejs walki zawiera osiem podstawowych opcji:
 
 #### Summony:
 ##### Lost Soul(wszystko słabe na niskim dmg)[79%]:
-* Sinner - dusza ze złamaną aureolą, obita i słaba. Dużo hp prawie nic ataku\
-* Imp - mały demonek jak mały diabełek ale też słaby fire atak, mało hp\
-* Poltergheis - telekinetic focus mało hp duży dmg, mało hp\
-* Specter - słaby duch z negatywnych emoji. all round mage jedyny atak to drain(dark). daje buffy\
-* Duchoid - duch stworzony z idei ludzi. ice lub wind\
-* Banshee - duch który krzyczy i to jest wind atak\
+* Sinner - dusza ze złamaną aureolą, obita i słaba. Dużo hp prawie nic ataku
+* Imp - mały demonek jak mały diabełek ale też słaby fire atak, mało hp
+* Poltergheis - telekinetic focus mało hp duży dmg, mało hp
+* Specter - słaby duch z negatywnych emoji. all round mage jedyny atak to drain(dark). daje buffy
+* Duchoid - duch stworzony z idei ludzi. ice lub wind
+* Banshee - duch który krzyczy i to jest wind atak
 * Topielec - ice ataki wodny theme
 ##### Demon(troche lepsze niż lost soul)[15%]:
-* Baku - demon wywołuje koszmary. soul i dark ataki\
-* Incubus/Sucubus - demon tank ale ma też ataki dark\
-* Wendigo - phys atak high speed\
-* Oni - fire i dark\
-* Drakula - all round mid jednostka z hp drain\
-* Azazel - high dps ale małe hp\
-* Abaddon - lepszy mage może dawać effekty na każdego przeciwnika\
+* Baku - demon wywołuje koszmary. soul i dark ataki
+* Incubus/Sucubus - demon tank ale ma też ataki dark
+* Wendigo - phys atak high speed
+* Oni - fire i dark
+* Drakula - all round mid jednostka z hp drain
+* Azazel - high dps ale małe hp
+* Abaddon - lepszy mage może dawać effekty na każdego przeciwnika
 * Amon - high fire dps szybki i mid hp
 ##### Archdemon[5%]:
-* Belzebub - muchowy demon all round dużo hp tank\
-* Moloh - high dark and soul ataki mid hp\
-* Leviathan - high physical/telekinetic dużo hp wolny\
-* Lilith - najlepszy buffer w grze. elemental ataki\
-* Mammon - ataki pieniędzmi. duże stunny i high speed\
-* Belial - high elemental dps\
+* Belzebub - muchowy demon all round dużo hp tank
+* Moloh - high dark and soul ataki mid hp
+* Leviathan - high physical/telekinetic dużo hp wolny
+* Lilith - najlepszy buffer w grze. elemental ataki
+* Mammon - ataki pieniędzmi. duże stunny i high speed
+* Belial - high elemental dps
 * Astaroth - używa sekretnej wiedzy itp żeby debuffować przeciwników najlepszy debuffer w grze
 
 ##### Devil[1%]:
