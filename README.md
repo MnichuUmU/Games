@@ -16,5 +16,5 @@ Devil – Legendarne (Ultra Rare)
 Poruszasz się po mapie w stylu 2d Super Mario (widok z góry, chodznie miedzy punktami połonczonymi drogami).
 #### System walki
 Kopia press turn z smt. Elementy to fire, ice, wind, telekinetic, soul, dark.\
-Poniżej koncept ui:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Poniżej koncept ui:\
+![alt text](battle_ui.png "UI systemu turowego")
