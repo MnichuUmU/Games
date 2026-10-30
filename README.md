@@ -32,7 +32,7 @@ Poruszasz się po mapie w stylu 2d Super Mario (widok z góry, chodzenie między
 ### System walki – Press Turn
 
 > **Koncept UI:**
-> 
+> ![alt text](battle_ui.png "UI systemu turowego")
 
 #### 1. System ikon tur (Moon Icons)
 
